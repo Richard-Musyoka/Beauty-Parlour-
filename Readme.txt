@@ -1,4 +1,4 @@
-How to run the Beauty Palour Management System (BPMS) Project
+How to run the Milestone Beauty Parlor  Project
 
 1. Download the zip file
 
